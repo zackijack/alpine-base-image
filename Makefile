@@ -8,8 +8,8 @@ help:
 	@echo
 	@echo 'Usage:'
 	@echo '    make build           Build docker image.'
-	@echo '    make tag             tag local image for pushing'
-	@echo '    make push            Push tagged images to registry'
+	@echo '    make tag             Tag local image for pushing.'
+	@echo '    make push            Push tagged images to registry.'
 	@echo
 
 .PHONY: build
