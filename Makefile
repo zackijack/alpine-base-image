@@ -1,6 +1,6 @@
 default: help
 
-IMAGE_NAME   := lacion/alpine-base-image
+IMAGE_NAME   := zackijack/alpine-base-image
 
 .PHONY: help
 help:
