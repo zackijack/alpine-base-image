@@ -2,7 +2,7 @@ alpine-base-image
 ========================
 
 This repository contains the sources for the following [docker](https://www.docker.com/) base images:
-- [`zackijack/alpine-base-image`]
+- [`zackijack/alpine-base-image`](https://hub.docker.com/r/zackijack/alpine-base-image)
 
 ## Usage
 
@@ -22,7 +22,7 @@ CMD binfile
 
 ```bash
 # Pull image
-git clone ssh://git@github.com/zackijack/alpine-base-image.git
+git clone https://github.com/zackijack/alpine-base-image.git
 cd alpine-base-image
 
 # hack hack hack
